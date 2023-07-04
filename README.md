@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=C%2B%2B&logoColor=blue" alt="C++" />
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5" alt="HTML" />
-    <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=1572B6" alt="CSS" />
     <h3>Technologies</h2>
     <img src="https://img.shields.io/badge/-Ngnix-000000?style=flat&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />
