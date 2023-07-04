@@ -9,6 +9,7 @@
     <h3>Languages</h2>
     <img src="https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=2C2D72" alt="Lua" />
     <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=orange" alt="Rust" />
+    <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=C%2B%2B&logoColor=blue" alt="C++" />
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5" alt="HTML" />
@@ -34,7 +35,7 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio" alt="Visual Studio" />
     <img src="https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm" alt="WebStorm" />
     <img src="https://img.shields.io/badge/-Rider-000000?style=flat&logo=rider" alt="Rider" />
-    <img src="https://img.shields.io/badge/-DataGrip-000000?style=flat&logo=datagrip" alt="DataGrip" />
+    <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea" alt="Idea" />
   </div>
   <div align="center">
     <h3>Stats</h2>
