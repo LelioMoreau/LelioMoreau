@@ -9,6 +9,7 @@
     <h3>Languages</h2>
     <img src="https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=2C2D72" alt="Lua" />
     <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=orange" alt="Rust" />
+    <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=C%2B%2B&logoColor=blue" alt="C#" />
     <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=C%2B%2B&logoColor=blue" alt="C++" />
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript" />
